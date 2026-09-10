@@ -1,0 +1,7 @@
+{
+  "name": "HemoCode HMIC - Banco de Sangue & Gestão de Dadores",
+  "description": "Sistema HemoCode do Hospital Materno Infantil do Camama Dr. Manuel Pedro Azancot de Menezes para gestão e rastreabilidade de dadores, triagem clínica e cálculo automatizado de aptidão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
